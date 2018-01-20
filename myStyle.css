@@ -18,6 +18,8 @@ h1 {
     color: rgb(102, 186, 255);
     text-align: center
     border: 5px solid blue;
+    border-top-style: solid;
+    border-top-color: blue;
 }
 
 p {
