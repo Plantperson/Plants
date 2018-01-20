@@ -19,6 +19,8 @@ h1 {
     text-align: center
     border-top-style: solid;
     border-top-color: blue;
+    border-bottom-style: solid;
+    border-bottom-color: blue;
 }
 
 p {
