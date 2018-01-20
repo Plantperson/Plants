@@ -19,6 +19,10 @@ h1 {
     text-align: center;
 }
 
+div { 
+     border: double;
+}
+
 p {
     font-size: 15px;
     text-align: center;
