@@ -16,9 +16,8 @@
 h1 {
     font-size: 50px;
     color: rgb(102, 186, 255);
-    text-align: center;
-    border-bottom-style: solid;
-    border-bottom-color: blue;
+    text-align: center
+    border: 2px solid blue;
 }
 
 p {
