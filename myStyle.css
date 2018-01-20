@@ -19,6 +19,10 @@ h1 {
     text-align: center;
 }
 
+h1 {
+    border-bottom-style: solid;
+    border-bottom-color: blue;
+}
 
 p {
     font-size: 15px;
